@@ -1,7 +1,6 @@
 # Portfolio Page
 
-![Build Status](https://github.com/heshamamoudi/portfoliopage/actions/workflows/build.yml/badge.svg)
-![Deploy Status](https://github.com/heshamamoudi/portfoliopage/actions/workflows/deploy.yml/badge.svg)
+[![GitHub Pages deployment status](https://github.com/heshamamoudi/portfoliopage/actions/workflows/pages/pages-build-deployment/badge.svg?branch=feature/publish)](https://github.com/heshamamoudi/portfoliopage/actions/workflows/pages/pages-build-deployment)
 
 A luxury-themed, fully responsive personal portfolio page for Hesham Amoudi.
 
@@ -24,13 +23,9 @@ This project is a modern, elegant portfolio page featuring:
    ```
    Then visit [http://localhost:8080/index.html](http://localhost:8080/index.html)
 
-## GitHub Deploy Process
-- The site is automatically built and deployed via GitHub Actions.
-- On push to the `feature/publish` branch, the deploy workflow runs and updates the live site.
-
-## Status Badges
-- **Build Status:** ![Build Status](https://github.com/heshamamoudi/portfoliopage/actions/workflows/build.yml/badge.svg)
-- **Deploy Status:** ![Deploy Status](https://github.com/heshamamoudi/portfoliopage/actions/workflows/deploy.yml/badge.svg)
+## GitHub Pages Deploy Status
+- The site is automatically deployed using GitHub Pages from the `feature/publish` branch.
+- Deployment status is shown by the badge above.
 
 ---
 
