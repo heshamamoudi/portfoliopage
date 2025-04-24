@@ -29,6 +29,9 @@ body {
   max-width: 1200px;
   margin: 0 auto;
   padding: 2rem 0;
+  background-image: url("assets/images/pattern.png"); /* Added background image */
+  background-repeat: repeat; /* Ensure the image repeats */
+  background-size: contain;
 }
 
 /* Header Styles */
